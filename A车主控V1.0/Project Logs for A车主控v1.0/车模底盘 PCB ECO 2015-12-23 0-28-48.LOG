@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=PTA6 Pin=D3-2
+Removed Pin From Net: NetName=NetIC1_4 Pin=P4-2
+Removed Pin From Net: NetName=NetIC1_3 Pin=P4-3
+Removed Pin From Net: NetName=NetIC1_2 Pin=P4-4
+Removed Pin From Net: NetName=5V Pin=R3-1
+Removed Pin From Net: NetName=PTA19 Pin=R3-2
+Removed Pin From Net: NetName=PTC5 Pin=R12-1
+Removed Pin From Net: NetName=5V Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R20-2
+Change Component DesignItemId : Designator=D3 Old DesignItemId=Diode 1N4148 New DesignItemId=LED
+Change Component DesignItemId : Designator=P4 Old DesignItemId=Header 5 New DesignItemId=Header 2
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Res2 New DesignItemId=Res
+Change Component Footprint: Designator=D3 Old Footprint=hole-chip diode New Footprint=R2012
+Change Component Footprint: Designator=R19 Old Footprint=R2012 New Footprint=1206(2)
+Change Component Footprint: Designator=R20 Old Footprint=R2012 New Footprint=1206(2)
+Change Component Comment : Designator=D3 Old Comment=1N4729A New Comment=POWER
+Change Component Comment : Designator=1NS1 Old Comment=1SS355 New Comment=SK34
+Change Component Comment : Designator=P4 Old Comment=Header 5 New Comment=Header 2
+Change Component Comment : Designator=R3 Old Comment=Res2 New Comment=10k
+Change Component Description : Designator=P4 Old Description=Header, 5-Pin New Description=Header, 2-Pin
