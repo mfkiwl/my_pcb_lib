@@ -1,0 +1,6 @@
+Change Component Description : Designator=R3 Old Description=Resistor New Description=Resistor of led
+Change Component Description : Designator=R3 Old Description=Resistor of led New Description=Resistor
+Change Component Library : Designator=R3 Old Library=K60-V4.0.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3 Old Library=Miscellaneous Devices.IntLib New Library=K60-V4.0.IntLib
+Added Component: Designator=JTAG1(IDC5X2)
+Added Component: Designator=S3(SMT_Button)

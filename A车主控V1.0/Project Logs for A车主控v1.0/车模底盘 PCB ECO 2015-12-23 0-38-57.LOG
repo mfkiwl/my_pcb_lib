@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=D3 Old DesignItemId=Diode 1N4148 New DesignItemId=LED
+Change Component DesignItemId : Designator=D3 Old DesignItemId=LED New DesignItemId=Diode 1N4148
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Res2 New DesignItemId=Res
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Res New DesignItemId=Res2
+Change Component Footprint: Designator=D3 Old Footprint=hole-chip diode New Footprint=R2012
+Change Component Footprint: Designator=D3 Old Footprint=R2012 New Footprint=hole-chip diode
+Change Component Comment : Designator=D3 Old Comment=1N4729A New Comment=POWER
+Change Component Comment : Designator=R3 Old Comment=10k New Comment=Res2
+Change Component Comment : Designator=D3 Old Comment=POWER New Comment=1N4729A
+Change Component Comment : Designator=R3 Old Comment=Res2 New Comment=10k

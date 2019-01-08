@@ -1,0 +1,38 @@
+Added Component: Designator=C29(C2012)
+Added Component: Designator=C30(C2012)
+Added Component: Designator=C31(C2012)
+Added Component: Designator=C32(C2012)
+Added Component: Designator=C33(C2012)
+Added Component: Designator=C34(C2012)
+Added Component: Designator=C35(C2012)
+Added Component: Designator=C36(C2012)
+Added Component: Designator=C37(C2012)
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=K3.3V Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=K3.3V Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=K3.3V Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=K3.3V Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=K3.3V Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=K3.3V Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=K3.3V Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=K3.3V Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=K3.3V Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=PTA6 Pin=D3-2
+Added Pin To Net: NetName=PTE12 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=PTA8 Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=PTA9 Pin=D6-2

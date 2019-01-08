@@ -1,0 +1,4 @@
+Added Component: Designator=bz1(HDR1X3)
+Added Pin To Net: NetName=GND Pin=bz1-1
+Added Pin To Net: NetName=PTB0 Pin=bz1-3
+Added Member To Class: ClassName=主控板加电流检测v2 Member=Component bz1 Header 3
